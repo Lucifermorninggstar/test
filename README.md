@@ -1,3 +1,4 @@
 # test 
 <br>
-author : Sachin Sisodia
+Sachin Sisodia (author) 
+git and github tutorial
